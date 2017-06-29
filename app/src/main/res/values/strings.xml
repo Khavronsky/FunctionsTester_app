@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FunctionsTester_app</string>
+
+    <!--buttons title-->
+    <string name="title_btn_1">Function_1</string>
+    <string name="title_btn_2">Function_2</string>
+    <string name="title_btn_3">Function_3</string>
+    <string name="title_btn_4">Function_4</string>
+    <string name="title_btn_5">Function_5</string>
+    <string name="title_btn_6">Function_6</string>
+    <string name="title_btn_7">Function_7</string>
+    <string name="title_btn_8">Function_8</string>
+    <string name="title_btn_9">Function_9</string>
+    <string name="title_btn_10">Function_10</string>
+    <string name="title_btn_11">Function_11</string>
+    <string name="title_btn_12">Function_12</string>
+    <string name="title_btn_13">Function_13</string>
+    <string name="title_btn_14">Function_14</string>
+    <string name="title_btn_15">Function_15</string>
+</resources>
